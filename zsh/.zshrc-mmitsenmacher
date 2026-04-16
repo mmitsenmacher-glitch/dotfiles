@@ -5,6 +5,7 @@ alias v='vi'
 alias gl='git log'
 alias gitdif='f() { git difftool -y --extcmd "cursor --wait --diff" "$@"; }; f'
 alias gpr="git pull --rebase"
+alias ll="ls -ltrh"
 export TELEPORT_ADD_KEYS_TO_AGENT=no
 
 mkcd() {
