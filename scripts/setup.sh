@@ -21,4 +21,5 @@ ln -sf $SCRIPT_DIR/../zsh/.zshrc-${USER}      ~/.zshrc-${USER}
 ln -sf $SCRIPT_DIR/../tmux/.tmux.conf ~/.tmux.conf
 ln -sf $SCRIPT_DIR/../vim/.vimrc ~/.vimrc
 ln -sf $SCRIPT_DIR/../git/.gitconfig  ~/.gitconfig
+ln -sf $SCRIPT_DIR/../inputrc/.inputrc  ~/.inputrc
 # Install zsh-history-substring-search
